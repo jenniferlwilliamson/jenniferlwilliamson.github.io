@@ -408,6 +408,7 @@ section {
   margin: 0 0 6px 0;
   text-transform: uppercase;
   /* display: block; */
+  font-size: 18px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #050d18;
