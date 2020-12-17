@@ -399,7 +399,7 @@ section {
 --------------------------------------------------------------*/
 .skills .progress {
   /* height: 50px; */
-  display: block;
+  /* display: block; */
   background: none;
 }
 
@@ -407,7 +407,7 @@ section {
   padding: 10px 0;
   margin: 0 0 6px 0;
   text-transform: uppercase;
-  display: block;
+  /* display: block; */
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #050d18;
