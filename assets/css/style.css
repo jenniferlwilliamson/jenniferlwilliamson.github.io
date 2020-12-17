@@ -606,6 +606,17 @@ section {
   border: 1px solid #149ddd;
 }
 
+.blog .blog_image {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #149ddd;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid #149ddd;
+}
+
 .blog .icon i {
   color: #fff;
   font-size: 24px;
@@ -620,7 +631,7 @@ section {
 }
 
 .blog .title {
-  margin-left: 80px;
+  /* margin-left: 80px; */
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
@@ -635,7 +646,7 @@ section {
 }
 
 .blog .description {
-  margin-left: 80px;
+  /* margin-left: 80px; */
   line-height: 24px;
   font-size: 14px;
 }
