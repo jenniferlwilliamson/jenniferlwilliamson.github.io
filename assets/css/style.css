@@ -529,6 +529,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -612,7 +613,7 @@ section {
   align-items: center;
   justify-content: center;
   border-bottom: 5px solid #149ddd;
-  border-radius: 0 0 10px 10px;
+  border-radius: 10px 10px 0 0;
   margin-bottom: 10px;
 }
 
