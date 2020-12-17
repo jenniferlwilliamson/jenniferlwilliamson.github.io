@@ -391,7 +391,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -591,7 +591,7 @@ section {
 --------------------------------------------------------------*/
 .blog .icon-box {
   margin-bottom: 20px;
-  background: #fff;
+  background: #e4edf9;
 
 }
 
@@ -614,6 +614,7 @@ section {
   align-items: center;
   justify-content: center;
   border-bottom: 5px solid #149ddd;
+  border-radius: 0 0 10px 10 px;
 }
 
 .blog .icon i {
@@ -632,7 +633,8 @@ section {
 .blog .title {
   /* margin-left: 80px; */
   font-weight: 700;
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
+  margin-top: 5px;
   font-size: 18px;
   padding: 20px;
 }
