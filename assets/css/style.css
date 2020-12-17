@@ -414,6 +414,15 @@ section {
   color: #050d18;
 }
 
+.skills .language {
+  padding: 10px 0;
+  margin: 0 0 6px 0;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: #050d18;
+}
+
 .skills .progress .skill_description {
   padding: 10px 0;
   margin: 0 0 6px 0;
