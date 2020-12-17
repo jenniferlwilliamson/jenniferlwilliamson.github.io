@@ -612,7 +612,8 @@ section {
   align-items: center;
   justify-content: center;
   border-bottom: 5px solid #149ddd;
-  border-radius: 0 0 10px 10 px;
+  border-radius: 0 0 10px 10px;
+  margin-bottom: 10px;
 }
 
 .blog .icon i {
