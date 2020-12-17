@@ -596,6 +596,7 @@ section {
 --------------------------------------------------------------*/
 .blog .icon-box {
   margin-bottom: 20px;
+  border-radius: 10px;
 }
 
 .blog .icon {
@@ -617,9 +618,9 @@ section {
   align-items: center;
   justify-content: center;
   border-bottom: 5px solid #149ddd;
-  border-radius: 10px;
   margin-bottom: 10px;
 }
+
 
 .blog .icon i {
   color: #fff;
