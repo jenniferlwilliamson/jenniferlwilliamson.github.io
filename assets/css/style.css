@@ -649,7 +649,9 @@ section {
   /* margin-left: 80px; */
   line-height: 24px;
   font-size: 14px;
-  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
 }
 
 /*--------------------------------------------------------------
