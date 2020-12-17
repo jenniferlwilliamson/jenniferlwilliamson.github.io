@@ -591,6 +591,8 @@ section {
 --------------------------------------------------------------*/
 .blog .icon-box {
   margin-bottom: 20px;
+  background: #fff;
+
 }
 
 .blog .icon {
@@ -632,6 +634,7 @@ section {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
+  padding: 20px;
 }
 
 .blog .title a {
@@ -646,6 +649,7 @@ section {
   /* margin-left: 80px; */
   line-height: 24px;
   font-size: 14px;
+  padding: 20px;
 }
 
 /*--------------------------------------------------------------
