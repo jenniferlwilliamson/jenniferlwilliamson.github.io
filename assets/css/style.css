@@ -596,6 +596,7 @@ section {
 --------------------------------------------------------------*/
 .blog .icon-box {
   margin-bottom: 20px;
+  background: rgba(255, 255, 255, 0.5);
 }
 
 .blog .icon {
@@ -642,7 +643,6 @@ section {
   margin-top: 20px;
   font-size: 18px;
   margin-left: 20px;
-  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .blog .title a {
@@ -660,7 +660,6 @@ section {
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 10px;
-  background-color: rgba(255, 255, 255, 0.5);
   border-radius: 0 0 10px 10px;
 }
 
