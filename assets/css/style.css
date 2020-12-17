@@ -401,7 +401,7 @@ section {
   height: 20px;
   /* display: block; */
   background: none;
-  margin: 0 0 6px 0;
+  margin: 10px 0 6px 0;
 }
 
 .skills .progress .skill {
@@ -417,7 +417,7 @@ section {
 
 .skills .language {
   padding: 10px 0;
-  margin: 0 0 6px 0;
+  margin: 0 0 6px 20px;
   font-size: 36px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
